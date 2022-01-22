@@ -10,3 +10,16 @@ git add <file_name>
 git commit -m "comment"
 git remote add origin <repo url>
 git push -u origin master
+
+Git branch
+
+git branch <branch name>
+git checkout <branch name>
+git merge <branch name>
+git push -u origin mynewbranch (to push the changes to repo)
+git branch -d <branch name> ---> delete from local
+git push origin --delete <branch name> ---> delete from remote
+
+tags
+
+
