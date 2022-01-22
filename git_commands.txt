@@ -9,4 +9,4 @@ git add <file_name>
 
 git commit -m "comment"
 git remote add origin <repo url>
-git push origin master
+git push -u origin master
