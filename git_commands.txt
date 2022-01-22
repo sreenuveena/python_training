@@ -2,3 +2,11 @@ this is the demo text file
 new line
 
 git init
+git status
+git add <file_name>
+# to add all 
+     git add.
+
+git commit -m "comment"
+git remote add origin <repo url>
+git push origin master
