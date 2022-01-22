@@ -1,2 +1,4 @@
 this is the demo text file
 new line
+
+git init
